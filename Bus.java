@@ -5,7 +5,7 @@ package bus;
 
 
 class synchmethod {
-	int total_seats = 10;
+	int total_seats = 20;
 
 //total seats=3
 	synchronized  void busTicket(int seats) {
